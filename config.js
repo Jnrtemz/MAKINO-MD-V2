@@ -17,7 +17,7 @@ global.groupevent = true;                //This is the new variable for controll
 global.statusseen = true;                 //make true to view statuses 
 
 
-global.Owner = ["𝙏𝞢𝞛𝞘❤️🌹"];
+global.Owner = ["𝙏𝞢𝞛𝞘❤️"];
 global.OwnerNumber = ["2349039716507"];
 global.ownertag = [""]; 
 global.OwnerName =  "𝙏𝞢𝞛𝞛𝙔 🌚🫂";
