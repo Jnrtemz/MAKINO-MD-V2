@@ -1,4 +1,4 @@
-const fs = require("fs");
+toconst fs = require("fs");
 const chalk = require("chalk");
 
 //to enable function - true
@@ -12,7 +12,7 @@ global.antitags = false;
 
 //auto functioner
 global.autoTyping = false;                //make true to enable auto typing
-global.autoRecord = true;                //make true to enable auto recording
+global.autoRecord = false;                //make true to enable auto recording
 global.groupevent = true;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //make true to view statuses 
 
